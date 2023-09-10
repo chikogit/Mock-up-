@@ -13,6 +13,7 @@ HTML
 CSS
 Website https://github.com/chikogit/Mock-up-
 
+![Screenshot (245)](https://github.com/chikogit/Mock-up-/assets/124736255/5668778d-eff4-490e-b05f-216739dcee6b)
 
 
 ©️2022 Horiseon, Inc
