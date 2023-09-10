@@ -14,7 +14,5 @@ CSS
 Website https://github.com/chikogit/Mock-up-
 
 
-Contribution
-Made with ❤️ by 
 
 ©️2022 Horiseon, Inc
